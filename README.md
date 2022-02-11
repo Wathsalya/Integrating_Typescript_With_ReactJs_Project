@@ -1,5 +1,5 @@
 # Integrating_Typescript_With_ReactJs_Project 
-This is published on https://medium.com 
+This has been published on https://medium.com 
 Optimizing ReactJs Projects with the Integration of Typescript extensions using React Query.
 
 
